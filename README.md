@@ -21,3 +21,12 @@ The store wants to analyze the pizza sales from Jan/15 – Dec/15 to gain insigh
 
 - Dashboard interaction <a href="https://github.com/Salau-Anuoluwapo/Pizza-Sales-Analysis-Dashboard/blob/main/00.PNG">View Dashboard1</a>
 - <a href="https://github.com/Salau-Anuoluwapo/Pizza-Sales-Analysis-Dashboard/blob/main/011.PNG">View Dashboard2</a>
+
+## Process
+- Verify and sort out data for anomalies and missing values
+- Designed and executed SQL queries to extract and aggregate key business metrics from a relational pizza sales database
+- Cleaned and transformed the raw sales data using Power Query, reducing manual reporting time
+- Built an interactive PowerBi dashboard to visualize and track KPIs across multiple pizza categories.
+- Delivered actionable insights into the pizza sales performance trends to support data driven business decisions.
+
+## Dashboard
