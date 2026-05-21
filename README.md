@@ -31,3 +31,16 @@ The store wants to analyze the pizza sales from Jan/15 – Dec/15 to gain insigh
 
 ## Dashboard
 <img width="928" height="543" alt="00" src="https://github.com/user-attachments/assets/6561a3ea-c14e-4b2a-8e77-e8acdafc2dd8" />
+<img width="947" height="538" alt="011" src="https://github.com/user-attachments/assets/c0177ae6-3223-4117-9cc4-4dd5d43f68ba" />
+
+## Project Insights
+- Weekend (Friday & Saturday) evening has the highest number of orders.
+- January, May & July records the maximum total orders
+- Classic category contributes to the maximum sales & total orders
+- Large size pizza has the maximum sales 
+- Thai chicken pizza contributes to the maximum revenue
+- Classic deluxe contributes to the maximum total quantities and sales
+- Brie Carre contributes to the minimum revenue
+  
+## Final Conclusion
+In conclusion, to improve overall sales performance, a strategic marketing plan targeting office worker during weekdays should be implemented, as this will drive pizza sales during office hours. Additionally, since Brie Carre pizza recorded the lowest performance in total quantity, revenue and sales, more promotional efforts are needed. Discounts and targeted advert should be made to educate customers about this option and encourage more purchases. 
