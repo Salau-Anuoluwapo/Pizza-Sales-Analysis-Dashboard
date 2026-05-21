@@ -20,3 +20,4 @@ The store wants to analyze the pizza sales from Jan/15 – Dec/15 to gain insigh
 - Bottom 5 pizza by revenue, quantity & order
 
 - Dashboard interaction <a href="https://github.com/Salau-Anuoluwapo/Pizza-Sales-Analysis-Dashboard/blob/main/00.PNG">View Dashboard1</a>
+- <a href="https://github.com/Salau-Anuoluwapo/Pizza-Sales-Analysis-Dashboard/blob/main/011.PNG">View Dashboard2</a>
