@@ -30,3 +30,4 @@ The store wants to analyze the pizza sales from Jan/15 – Dec/15 to gain insigh
 - Delivered actionable insights into the pizza sales performance trends to support data driven business decisions.
 
 ## Dashboard
+<img width="928" height="543" alt="00" src="https://github.com/user-attachments/assets/6561a3ea-c14e-4b2a-8e77-e8acdafc2dd8" />
